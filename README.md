@@ -24,3 +24,10 @@ In [2]: %run main.py
 In [3]: %run eval.py
 
 In [4]: %run tsne.py
+
+# References:
+1.	Neural networks from scratch in Python. (2021, April 27). Christian Dima. https://www.cristiandima.com/neural-networks-from-scratch-in-python/
+2.	Clark, K. (2021, April 27). Computing Neural Network Gradients. Stanford CS224 Readings. https://web.stanford.edu/class/cs224n/readings/gradient-notes.pdf
+3.	Derivative of Softmax loss function. (2021, April 27). Mathematics Stack Exchange. https://math.stackexchange.com/questions/945871/derivative-of-softmax-loss-function/
+4.	Code example of t-SNE: Dimensionality reduction Lecture 27@ Applied AI Course. (2021, April 27). YouTube. https://www.youtube.com/watch?v=eDGWcIt10d8
+5.	Possible to make labels appear when hovering over a point in matplotlib?. (2021, April 27). Stack Overflow. https://stackoverflow.com/questions/7908636/possible-to-make-labels-appear-when-hovering-over-a-point-in-matplotlib
